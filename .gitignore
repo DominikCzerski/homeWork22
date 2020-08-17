@@ -1,2 +1,4 @@
 # Project exclude paths
 /target/
+/.idea/
+/homeWork22.iml
